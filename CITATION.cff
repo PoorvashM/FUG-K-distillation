@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'FUG(K) shortcut design distillation '
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Poorvash
+    family-names: Muthumaheswaran
+    affiliation: University of Edinburgh
+repository-code: >-
+  https://github.com/PoorvashM/FUG-K-distillation/blob/main/Distillation%20FUGK%20Group%208.py
